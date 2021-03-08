@@ -41,5 +41,4 @@ public class Random1VO {
     Random1VO_List list1;
     Boolean boo3;
     Long long1;
-
 }

@@ -17,7 +17,7 @@ package randomJsonVO.Random1VO;
  *     "vertical"
  *   ],
  */
-public class Random1VO_List {
+public class Random1VO_List extends Random1VO{
     String Random1VO_List_string1;
     String Random1VO_List_string2;
 }
